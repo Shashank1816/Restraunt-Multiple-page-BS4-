@@ -45,7 +45,7 @@ body{
     padding: 10px;
 }
 .modal-dialog{
-    background-color: #ddd;
+    background-color: rgba(254,254,254,1);
 }
 .carousel{
     background:#512Da8;
